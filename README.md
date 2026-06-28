@@ -56,7 +56,7 @@ el partido a través de modelos predictivos y visualizaciones avanzadas.
 ## 📊 Visualizaciones del Proyecto
 
 ### Radar Comparativo — Messi vs Mbappé
-![Radar](asset/hhhh)
+![Radar](assets/radar_messi_mbappe.png)
 
 ### Evolución del xG Acumulado
 ![xG Acumulado](assets/xg_acumulado.png)
