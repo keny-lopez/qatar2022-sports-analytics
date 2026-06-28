@@ -82,7 +82,7 @@ qatar2022-sports-analytics/
 │
 ├── README.md
 ├── notebook/
-│   └── qatar2022_analysis.ipynb
+│   └── SportAnalytics_FinalQatar2022.ipynb
 ├── assets/
 │   ├── radar_messi_mbappe.png
 │   ├── xg_acumulado.png
@@ -115,7 +115,7 @@ de monotonía               calor, Mapa tiros           datos reales
 
 ### Opción A — Google Colab (recomendado)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keny-lopez/qatar2022-sports-analytics/blob/main/notebook/qatar2022_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keny-lopez/qatar2022-sports-analytics/blob/main/notebook/SportAnalytics_FinalQatar2022.ipynb)
 
 ### Opción B — Ejecución local
 
@@ -123,7 +123,7 @@ de monotonía               calor, Mapa tiros           datos reales
 git clone https://github.com/keny-lopez/qatar2022-sports-analytics.git
 cd qatar2022-sports-analytics
 pip install -r requirements.txt
-jupyter notebook notebook/qatar2022_analysis.ipynb
+jupyter notebook notebook/SportAnalytics_FinalQatar2022.ipynb
 ```
 
 ---
@@ -167,12 +167,28 @@ para uso académico e investigativo sin costo.
 
 ---
 
+## 🤝 Asistencia de IA
+
+Este proyecto fue desarrollado con asistencia de **Claude (Anthropic)**
+como herramienta de apoyo en la arquitectura del código, depuración
+y documentación.
+
+El análisis, las hipótesis, las decisiones metodológicas, la validación
+de resultados y las conclusiones son responsabilidad del autor.
+El uso de IA en este proyecto sigue el marco de transparencia 4D:
+Delegación, Descripción, Discernimiento y Diligencia.
+
+Todo el código fue revisado, comprendido y validado celda por celda
+antes de ser incorporado al proyecto final.
+
+---
+
 ## 👤 Autor
 
 **Keny López**
 Data Analyst & BI Specialist | Microsoft Fabric & Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keny%20López-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keny-lopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keny%20López-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenylopez-data-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-keny--lopez-181717?logo=github&logoColor=white)](https://github.com/keny-lopez)
 
 ---
@@ -185,4 +201,4 @@ Los datos utilizados pertenecen a StatsBomb y están sujetos a su
 
 ---
 
-*Tegucigalpa, Honduras — Junio 2026*
+*Tegucigalda, Honduras — Junio 2026*
